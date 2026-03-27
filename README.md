@@ -1,5 +1,5 @@
 Core Functionality:
-1)Firebase Authentication (sign in / sign up)
+1)Firebase Authentication (sign in / sign up)\n
 2)Account overview & balance
 3)Transaction history
 4)Real‑time sync using Firebase
