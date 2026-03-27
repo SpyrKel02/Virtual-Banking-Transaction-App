@@ -14,7 +14,7 @@
 - Room Database
 - Android Studio
 
-- 🧠 Project Notes
+🧠 Project Notes
 
 - UI: Uses Jetpack Compose for building modern, responsive UI layouts.
 - Offline persistence: Uses Room to cache local data for performance.
