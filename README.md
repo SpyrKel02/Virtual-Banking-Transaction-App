@@ -8,8 +8,8 @@
 
 📦 Technologies used:
 
-Kotlin
-Jetpack Compose
-Firebase (Auth & Realtime)
-Room Database
-Android Studio
+- Kotlin
+- Jetpack Compose
+- Firebase (Auth & Realtime)
+- Room Database
+- Android Studio
