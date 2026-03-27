@@ -1,18 +1,18 @@
 Core Functionality:
-1)Firebase Authentication (sign in / sign up)\n
-2)Account overview & balance
-3)Transaction history
-4)Real‑time sync using Firebase
-5)Local data caching with Room
-6)Clean and modern UI using Jetpack Compose
-7)MVVM architectural pattern
+-Firebase Authentication (sign in / sign up)
+-Account overview & balance
+-Transaction history
+-Real‑time sync using Firebase
+-Local data caching with Room
+-Clean and modern UI using Jetpack Compose
+-MVVM architectural pattern
 
 Technologies used:
-1)Kotlin
-2)Jetpack Compose
-3)Firebase (Auth & Realtime)
-4)Room Database
-5)Android Studio
+-Kotlin
+-Jetpack Compose
+-Firebase (Auth & Realtime)
+-Room Database
+-Android Studio
 
 Project Notes:
 1)UI: Uses Jetpack Compose for building modern, responsive UI layouts.
